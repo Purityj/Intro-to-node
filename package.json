@@ -1,0 +1,22 @@
+{
+  "name": "node-intro-to-node",
+  "version": "1.0.0",
+  "description": "my node js intro app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Purityj/Intro-to-node.git"
+  },
+  "author": "Purity Jangaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Purityj/Intro-to-node/issues"
+  },
+  "homepage": "https://github.com/Purityj/Intro-to-node#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
